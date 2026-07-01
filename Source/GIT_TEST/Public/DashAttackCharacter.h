@@ -28,5 +28,5 @@ public:
 
 private:
 	void DashAttack();
-	int32 PlayerHP = 150;
+	int32 PlayerHP = 100;
 };
